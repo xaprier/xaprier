@@ -7,6 +7,7 @@ C++, NodeJS, C# and Java Developer
 I've been learning how to write an efficient code for 1 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
 
 *   🌍  I'm based in Eskisehir, Turkey
+*   👨‍🎓  I'm a Computer Programming student at Eskişehir Technical University.
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
 *   🧠  I'm learning Qt Widgets, Data Structures, Assembly with C++, Bash Scripting and more...
 *   🤝  I'm open to collaborating on C++ and NodeJS projects
