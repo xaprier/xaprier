@@ -11,7 +11,6 @@ I've been learning how to write an efficient code for 1 years. I started with Ja
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
 *   🧠  I'm learning Qt, Data Structures, Assembly with C++, Bash Scripting and more...
 *   🤝  I'm open to collaborating on C++ and NodeJS projects
-*   ⚡  I'm interested with DevOps engineering
 
 ### Skills
 <p align="left">
