@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seymen Kalkan
 =====================================================================================================================================
 
-C++, NodeJS, C# and Java Developer
+C++, NodeJS Developer
 ----------------------------------
 
 I've been learning how to write an efficient code for 1 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
@@ -9,7 +9,7 @@ I've been learning how to write an efficient code for 1 years. I started with Ja
 *   🌍  I'm based in Eskisehir, Turkey
 *   👨‍🎓  I'm a Computer Programming student at Eskişehir Technical University.
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
-*   🧠  I'm learning Qt Widgets, Data Structures, Assembly with C++, Bash Scripting and more...
+*   🧠  I'm learning Qt, Data Structures, Assembly with C++, Bash Scripting and more...
 *   🤝  I'm open to collaborating on C++ and NodeJS projects
 *   ⚡  I'm interested with DevOps engineering
 
@@ -27,4 +27,4 @@ I've been learning how to write an efficient code for 1 years. I started with Ja
 
 ### Socials
                   
-<p align="left"> <a href="https://discord.com/users/xaprier#6129" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/xaprier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xaprier.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seymen-kalkan-819b01220" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/saymanshield" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://discord.com/users/xaprier#6129" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.github.com/xaprier" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/xaprier.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/seymen-kalkan-819b01220" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://twitter.com/xaprier_dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
