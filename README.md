@@ -1,10 +1,11 @@
+
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seymen Kalkan
 =====================================================================================================================================
 
 C++, NodeJS Developer
 ----------------------------------
 
-I've been learning how to write an efficient code for 1 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
+I've been learning how to write an efficient code for 2 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
 
 *   🌍  I'm based in Eskisehir, Turkey
 *   👨‍🎓  I'm a Computer Programming student at Eskişehir Technical University.
@@ -12,8 +13,8 @@ I've been learning how to write an efficient code for 1 years. I started with Ja
 *   🧠  I'm learning Qt, Data Structures, Assembly with C++, Bash Scripting and more...
 *   🤝  I'm open to collaborating on C++ and NodeJS projects
 
-### Skills
-<p align="left">
+<h3 align="center">Skills</h3>
+<p align="center">
   <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
   </a>
@@ -37,8 +38,7 @@ I've been learning how to write an efficient code for 1 years. I started with Ja
   </a>
 </p>                    
 
-### Socials
-                  
+<h3 align="center">Socials</h3>
 <p align="center">
   <a href="https://discord.com/users/xaprier#6129" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" />
