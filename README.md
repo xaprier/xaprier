@@ -5,12 +5,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++, NodeJS Developer
 ----------------------------------
 
-I've been learning how to write an efficient code for 2 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
+I've been learning how to write an efficient code for 3 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
 
-*   🌍  I'm based in Eskisehir, Turkey
-*   👨‍🎓  I'm a Computer Programming student at Eskişehir Technical University.
+*   🌍  I'm based in Ankara, Turkey
+*   👨‍🎓  I have graduated from Computer Programming at Eskişehir Technical University.
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
-*   🧠  I'm learning Qt, Data Structures, Assembly with C++, Bash Scripting and more...
+*   🧠  I'm learning Qt, Assembly with C++, Bash Scripting, Javascript and more...
 *   🤝  I'm open to collaborating on C++ and NodeJS projects
 
 <h3 align="center">Skills</h3>
@@ -32,9 +32,6 @@ I've been learning how to write an efficient code for 2 years. I started with Ja
   </a>
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" />
   </a>
 </p>                    
 
