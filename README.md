@@ -5,35 +5,14 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 C++, NodeJS Developer
 ----------------------------------
 
-I've been learning how to write an efficient code for 3 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Python, Assembly and C++
+I've been learning how to write efficient codes for 4 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Data Structures, Design Patterns, Python, NASM, C++ and more.
 
 *   🌍  I'm based in Ankara, Turkey
-*   👨‍🎓  I have graduated from Computer Programming at Eskişehir Technical University.
+*   👨‍🎓  I have graduated from Computer Programming at Eskişehir Technical University as top student of department with 3.88 GPA.
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
-*   🧠  I'm learning Qt, Assembly with C++, Bash Scripting, Javascript and more...
-*   🤝  I'm open to collaborating on C++ and NodeJS projects
-
-<h3 align="center">Skills</h3>
-<p align="center">
-  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
-  </a>
-  <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" />
-  </a>
-  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" />
-  </a>
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
-  </a>
-  <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" />
-  </a>
-</p>                    
+*   🕹  Founder of GaiaCraft Minecraft.
+*   ⚙️  Strong Skills: C++(CMake,Qt,VTK) with 11,14 and 17 Standards, Git, Javascript(NodeJS), UNIX & GNU/Linux, Package Managers(apt,pacman,dnf)
+*   📌  Light Skills: C++(pybind,Argus Jetson,V4L2), Python, ReactJS, PHP, C#, Bash Scripting, MariaDB/MySQL/PostgreSQL, Linux System Administration                 
 
 <h3 align="center">Socials</h3>
 <p align="center">
