@@ -14,5 +14,14 @@ I've been learning how to write efficient codes for 4 years. I started with Java
 *   ⚙️  Strong Skills: C++(CMake,Qt,VTK) with 11,14 and 17 Standards, Git, Javascript(NodeJS), UNIX & GNU/Linux, Package Managers(apt,pacman,dnf)
 *   📌  Light Skills: C++(pybind,Argus Jetson,V4L2), Python, ReactJS, PHP, C#, Bash Scripting, MariaDB/MySQL/PostgreSQL, Linux System Administration                 
 
-![xaprier's Stats](https://github-readme-stats.vercel.app/api?username=xaprier&theme=gruvbox&show_icons=true&hide_border=false&count_private=true)
-![xaprier's Streak](https://github-readme-streak-stats.herokuapp.com/?user=xaprier&theme=gruvbox&hide_border=false)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=xaprier&theme=gruvbox&show_icons=true&hide_border=false&count_private=true" alt="xaprier's Stats">
+    </td>
+    <td>
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=xaprier&theme=gruvbox&hide_border=false" alt="xaprier's Streak">
+    </td>
+  </tr>
+</table>
+
