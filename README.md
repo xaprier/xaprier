@@ -8,7 +8,7 @@ C++, NodeJS Developer
 I've been learning how to write efficient codes for 4 years. I started with Java and NodeJS then start to learn about UNIX, DBMS, C#, Data Structures, Design Patterns, Python, NASM, C++ and more.
 
 *   🌍  I'm based in Ankara, Turkey
-*   👨‍🎓  I have graduated from Computer Programming at Eskişehir Technical University as top student of department with 3.88 GPA.
+*   👨‍🎓  I have graduated from Computer Programming at Eskişehir Technical University as top student of department with 3.89 GPA.
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
 *   🕹  Founder of GaiaCraft Minecraft.
 *   ⚙️  Strong Skills: C++(CMake,Qt,VTK) with 11,14 and 17 Standards, Git, Javascript(NodeJS), UNIX & GNU/Linux, Package Managers(apt,pacman,dnf)
