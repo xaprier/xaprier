@@ -10,7 +10,6 @@ I've been learning how to write efficient codes for 4 years. I started with Java
 *   🌍  I'm based in Ankara, Turkey
 *   👨‍🎓  Graduated from Associate Degree of Computer Programming at Eskişehir Technical University as top student of department with 3.89 GPA.
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
-*   🕹  Founder of GaiaCraft Minecraft.
 *   ⚙️  Strong Skills: C++(CMake,Qt,VTK) with 11,14 and 17 Standards, Git, Javascript(NodeJS), UNIX & GNU/Linux, Package Managers(apt,pacman,dnf)
 *   📌  Light Skills: C++(pybind,Argus Jetson,V4L2), Python, ReactJS, PHP, C#, Bash Scripting, MariaDB/MySQL/PostgreSQL, Linux System Administration                 
 
