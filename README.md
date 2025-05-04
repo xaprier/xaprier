@@ -1,17 +1,11 @@
-
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Seymen Kalkan
-=====================================================================================================================================
-
-C++ Developer, Linux Administration
+### C++/Qt Developer and Linux Administration
 ----------------------------------
-
-Learning how to write efficient and optimized codes for 4 years.
-
-*   🌍  I'm based in Turkey
-*   👨‍🎓  Graduated from Associate Degree of Computer Programming at Eskişehir Technical University as top student of department with 3.89 GPA.
+*   🌍  Based in Turkey
+*   👨‍🎓  Graduated top of the Computer Programming department at Eskişehir Technical University with a 3.89 GPA
+*   📚  Student of Ataturk University Computer Engineering BSc
 *   ✉️  You can contact me at [seymenkalkan@gmail.com](mailto:seymenkalkan@gmail.com)
-*   ⚙️  Strong Skills: C++(CMake,Qt,VTK) with 11,14,17 and 20 Standards, Git, Javascript(NodeJS), UNIX & GNU/Linux, Package Managers(apt,pacman,dnf)
-*   📌  Light Skills: C++(pybind,Argus Jetson,V4L2), Python, ReactJS, PHP, C#, Bash Scripting, MariaDB/MySQL/PostgreSQL, Linux System Administration
+*   ⚙️  Strong Skills: C++(CMake,Qt,VTK) with 11,14,17 and 20 Standards, Git, UNIX & GNU/Linux, Package Managers(apt,pacman,dnf)
+*   📌  Light Skills: C++(pybind,Argus Jetson,V4L2, openssl), Python, ReactJS, NodeJS, PHP, C#, Bash Scripting, MariaDB/MySQL/PostgreSQL, Linux System Administration
 
 <table>
   <tr>
@@ -24,3 +18,12 @@ Learning how to write efficient and optimized codes for 4 years.
   </tr>
 </table>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xaprier/snk-on-contrib-graph/refs/heads/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xaprier/snk-on-contrib-graph/refs/head/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/xaprier/snk-on-contrib-graph/refs/head/output/github-contribution-grid-snake.svg">
+  </picture>
+  <br/>
+  <i>generated with <a href="https://github.com/Platane/snk" target="_blank">Platane/snk</a></i>
+</p>
